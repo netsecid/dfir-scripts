@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Script: persistence_timestamp.sh
-# Purpose: Analyze modification timestamps of critical system files and directories
-# Author: Claude
+# Purpose: If you are lazy like me and just wanted to check if there are any modifications to the persistence files after the incident, use this script :).
+# Author: Claude AI helps generate 99% of the code.
 
 # Color codes
 RED='\033[0;31m'
